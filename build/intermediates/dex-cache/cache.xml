@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/jefchen/.android/build-cache/996b3e4bd7b2b7484e5d25a28a1b77d4e29806a2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/Users/jefchen/projects/AnimatedLeafTest/app/build/intermediates/pre-dexed/debug/classes_8f30507f5cefe1f7958d8b75a9b8af8a8356ff7c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jefchen/.android/build-cache/0eaaf4386c23ab999e4fb8dfc6d350246d9d7608/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/Users/jefchen/projects/AnimatedLeafTest/app/build/intermediates/pre-dexed/debug/classes_f4744f1d86f4814ad07aca0fe1effbde35666089.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jefchen/.android/build-cache/3a44e92f1c3952238938eebda38019b239fa7930/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/jefchen/projects/AnimatedLeafTest/app/build/intermediates/pre-dexed/debug/classes_9dd4c67f88d02048aedd63f746d34c27c11b38bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jefchen/.android/build-cache/8cc8e8d41d4d520aa9370a2bf58f65b7ac0ef5c4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/Users/jefchen/projects/AnimatedLeafTest/app/build/intermediates/pre-dexed/debug/classes_7d5059b25dc909a061b336ac6c8c199364838e2a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jefchen/.android/build-cache/7e294052eb892c2b95d49f9c3fa6868d4a9cd77a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/jefchen/projects/AnimatedLeafTest/app/build/intermediates/pre-dexed/debug/classes_57451d31f3d8253813590d55673c6c9d9202e1b0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jefchen/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/jefchen/projects/AnimatedLeafTest/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_0a73beeb1f432c6f8fc116f2317b5584cdb30ff5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jefchen/.android/build-cache/517e7386d409d5456b7d67958b79c457a78c5e37/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/Users/jefchen/projects/AnimatedLeafTest/app/build/intermediates/pre-dexed/debug/classes_9dd2c9f26c11fc26cc58d5b2f66396ecbcb3f185.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jefchen/.android/build-cache/fa7a3e5a2b436440a3bce0e015f30ebe9c96c9a0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/Users/jefchen/projects/AnimatedLeafTest/app/build/intermediates/pre-dexed/debug/classes_9f94f575c98ffe447d8f4df970694a6fc0d66ffd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jefchen/.android/build-cache/79318871113ec0007ca44136fa8e84baa99be553/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/Users/jefchen/projects/AnimatedLeafTest/app/build/intermediates/pre-dexed/debug/classes_2dca1c93fec9bc0619615749bbbd23deaa642232.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jefchen/.android/build-cache/8a38ed3d60715a3af1e2ebf7d3cce887cf0f3fb5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/Users/jefchen/projects/AnimatedLeafTest/app/build/intermediates/pre-dexed/debug/classes_d1b77d3136cb259d39b30e707c24b48e19f8774e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jefchen/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/Users/jefchen/projects/AnimatedLeafTest/app/build/intermediates/pre-dexed/debug/support-annotations-26.0.0-alpha1_8507b047c3ad314884cfc8c57cb721f9d9400b09.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jefchen/.android/build-cache/36240a4cc3d625c53e4a081c18b8136e1f44644e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/Users/jefchen/projects/AnimatedLeafTest/app/build/intermediates/pre-dexed/debug/classes_ebbc0026d85799f2bb8d4564f4b73d7b7976520c.jar" />
+    </item>
+
+</items>
